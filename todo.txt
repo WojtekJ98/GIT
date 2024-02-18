@@ -1,2 +1,3 @@
 1. Wyrzuć śmieic
 2. Naucz się GITA
+3. Sprawdzam jak działa remote
